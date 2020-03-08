@@ -1,0 +1,3 @@
+SELECT * From aaa WHERE x=2 AND y=2
+
+CREATE database test

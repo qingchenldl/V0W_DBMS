@@ -1,0 +1,3 @@
+﻿R2:select * from aaa where id>2
+R1:select * from aaa
+IdGrade:Select id course grade From aaa
